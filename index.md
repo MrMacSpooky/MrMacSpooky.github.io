@@ -8,4 +8,4 @@ Anfang Februar 2019 verlängerte RTL die Fernsehserie um eine achte Staffel, bei
 * seht unterhaltsam
 Das Thema der Sendung ist
 > Ey, ihr Pappnasen!
-
+<img src="https://de.wikipedia.org/wiki/Hendrik_Duryn#/media/Datei:HendrikDuryn.jpg" />
