@@ -6,4 +6,6 @@ Anfang Februar 2019 verlängerte RTL die Fernsehserie um eine achte Staffel, bei
 * ..auch mit schwierigen Schülern
 * keine Eifelturmbewohneransicht
 * seht unterhaltsam
+Das Thema der Sendung ist
+> Ey, ihr Pappnasen!
 
